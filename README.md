@@ -3,6 +3,7 @@
 > **Как установить скрипт на Termux, читай ниже.**
 # ИНСТРУКЦИЯ
 **pkg update && pkg upgrade**
+---
 **pkg install git**
 **pkg install python**
 **cd ToolVk**
